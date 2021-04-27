@@ -1,1 +1,27 @@
-
+[
+  {
+    "state": "Andaman & Nicobar Islands",
+    "state_coe": "AN",
+    "districts" : [
+      {
+        "district": "",
+        "cities": [
+          "Port Blair"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "state_coe": "AP",
+    "districts" : [
+      {
+        "district": "East Godavari",
+        "cities": [
+          "Amalapuram",
+          "Kakinada"
+        ]
+      }
+    ]
+  }
+]
